@@ -1,0 +1,5 @@
+Your lottery (random) : 2 23 28 38 40 44 
+Your lottery (choose) : 3 6 16 38 45 52 
+Your lottery (random) : 2 23 28 38 40 44 
+Your lottery (random) : 2 3 4 17 34 39 
+Your lottery (choose) : 1 2 9 23 33 43 
